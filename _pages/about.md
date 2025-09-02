@@ -6,7 +6,7 @@ subtitle: Software Engineering Student at University of Buenos Aires (UBA)
 
 profile:
   align: right
-  image: IMG_0682.JPG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Buenos Aires, Argentina</p>
